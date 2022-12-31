@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/akbar/Code/Project/Mobile/Kotlin/Source/KotlinCalculator/app/src/main/res/drawable-v24/textview_border.xml" value="0.2135" />
+        <entry key="..\:/Users/akbar/Code/Project/Mobile/Kotlin/Source/KotlinCalculator/app/src/main/res/drawable/button_border.xml" value="0.2135" />
+        <entry key="..\:/Users/akbar/Code/Project/Mobile/Kotlin/Source/KotlinCalculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2135" />
         <entry key="..\:/Users/akbar/Code/Project/Mobile/Kotlin/Source/KotlinCalculator/app/src/main/res/layout/activity_main.xml" value="0.37135416666666665" />
       </map>
     </option>
